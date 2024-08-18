@@ -1,0 +1,45 @@
+2020.03.10-10.31.28.614 reboot commanded by IbisController UI; service connection timeout
+2020.05.17-23.56.43.957 reboot commanded by IbisController UI; service connection timeout
+2020.07.16-23.49.54.477 reboot commanded by IbisController UI; service connection timeout
+2020.08.11-15.39.45.015 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.08.11-15.51.22.467 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.08.11-15.52.56.520 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.08.11-15.53.26.814 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.08.11-15.53.26.814 StatusBar::checkServiceConnection Timeout on getSessionRunningStatus m_iServiceConnectionRetry = 1
+2020.08.11-15.53.59.247 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.08.11-15.54.28.814 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.08.11-15.54.28.814 StatusBar::checkServiceConnection Timeout on getSessionRunningStatus m_iServiceConnectionRetry = 2
+2020.08.11-15.56.07.862 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.08.11-15.56.39.889 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.08.11-15.57.06.922 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2020.09.13-00.49.46.413 reboot commanded by IbisController UI; service connection timeout
+2020.11.19-23.49.54.236 reboot commanded by IbisController UI; service connection timeout
+2021.05.05-16.26.24.942 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.05.05-16.26.24.942 StatusBar::checkServiceConnection Timeout on getSessionRunningStatus m_iServiceConnectionRetry = 1
+2021.06.01-15.58.55.395 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.06.03-13.31.43.302 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.06.03-13.31.43.302 StatusBar::checkServiceConnection Timeout on getSessionRunningStatus m_iServiceConnectionRetry = 1
+2021.06.03-13.32.16.102 StatusBar::checkServiceConnection reset of m_iServiceConnectionRetry (last value = 1)
+2021.07.16-13.09.51.833 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.07.16-13.09.51.836 StatusBar::checkServiceConnection Timeout on getSessionRunningStatus m_iServiceConnectionRetry = 1
+2021.07.16-13.10.25.211 StatusBar::checkServiceConnection reset of m_iServiceConnectionRetry (last value = 1)
+2021.09.08-13.01.58.597 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.09.20-12.12.33.082 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.12-22.56.54.052 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.13-02.11.36.962 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.13-21.30.45.600 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.16-08.28.36.706 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.16-21.45.25.321 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.17-12.45.33.203 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.20-09.13.26.240 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.21-11.17.05.830 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.22-20.26.10.231 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.22-20.45.32.120 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.23-10.35.59.103 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2021.11.24-12.37.20.053 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2022.01.23-09.44.42.071 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2022.01.24-11.18.33.082 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2022.01.24-20.38.01.244 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2022.01.25-01.45.13.318 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2022.01.25-09.22.38.501 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!
+2022.01.25-09.23.10.535 SyncProtocolTcpClient::waitServerAnswer Timeout!!!!

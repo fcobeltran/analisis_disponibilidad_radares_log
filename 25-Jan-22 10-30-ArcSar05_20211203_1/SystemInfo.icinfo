@@ -1,0 +1,47 @@
+Data   25-Jan-22 10:30
+IBIS Controller version:   04.06.002
+IBIS Sensor
+     Micro Firmware Version:   2.31.0
+     FPGA Firmware Version:   2.10.0
+     LF Serial Number:   NES-19001229
+     LF Manufacturing year:   2019
+     LF Revision:   0.0
+     Sensor Serial Number:   090-19-000126
+     Sensor Manufacturing Model:   859861
+     Sensor Revision:   0.0
+     UDF Map Version:   0
+     RF FPGA Firmware version:   2.1
+     Radar Band Type:   FCC Band (17.1-17.3GHz)
+     Radar License:   SAR
+     Kit Dem Present:   Yes
+     Kit Dem Serial Number:   090-19-000137
+     Kit Dem Manufacturing Model:   865161
+     Kit Dem Revision:   1.0
+
+Linear Scanner Not connected
+Positioner
+     Serial Number:   618220-001-19
+     Model:   865156-03
+Supply System
+     FW version:   2.4.0
+
+Camera
+     Camera Dev ID:   223286
+     Camera FW version:   00.01.54.17562 
+     Camera model name:   GT4907C
+     Camera name:   GT4907C
+     Camera serial number:   02-2637D-07184
+     Camera vendor name:   Allied Vision Technologies
+     Lens model:   EF40mm_f/2.8
+     Birger library version:   
+     Birger hardware version:   0
+     Birger serial number:   0
+
+Pan-Tilt Not enabled
+Pointing Camera Not connected
+Weather Station Not enabled
+GPS
+     Model:   "OEM7720-1.01"
+     Serial Number:   "DMMU19110279Y"
+     GPS software version:   "OM7MR0504RN0000"
+
